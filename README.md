@@ -61,7 +61,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=robby-wang&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=Robby's%20GitHub%20Stats" alt="GitHub Stats" width="100%"/>
 
-### 🐍 **Contribution Snake**
-![Contribution Snake](https://raw.githubusercontent.com/robby-wang/robby-wang/output/github-contribution-grid-snake-dark.svg)
+<!-- ### 🐍 **Contribution Snake**
+![Contribution Snake](https://raw.githubusercontent.com/output/github-contribution-grid-snake-dark.svg) -->
 
 </div>
